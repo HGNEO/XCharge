@@ -86,15 +86,8 @@ init_main() {
   ui_print ""
   ui_print "[*] Reboot is required"
   ui_print ""
-  ui_print "[*] Do not use XCharge™ with other charging enhancement modules"
-  ui_print ""
   ui_print "[*] (su -c xcharge) to open XCharge™ Menu in Terminal"
   ui_print ""
-  ui_print "[*] Report issues to @loopchats on Telegram"
-  ui_print ""
-  ui_print "[*] Join @loopprojects on Telegram to get XCharge™ updates"
-  ui_print ""
-  ui_print "[*] You can find me at iamlooper @ Telegram for direct support"
 
   sleep 2.5
 }
